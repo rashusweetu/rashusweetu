@@ -1,9 +1,11 @@
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=rashusweetu.rashusweetu)
+
 - 👋 Hi, I’m Rashmi G S 
 - 👀 I’m interested in ...  AI, chatbots, and automation
 - 🌱 I’m currently learning ...about gen ai, llm, Fast api, vector databases
 - 💞️ I’m looking to collaborate on ...intelligent chatbot projects and real-time data applications
 - 📫 How to reach me ...getrashuraj@gmail.com
--     ![](https://komarev.com/ghpvc/?username=rashusweetu)
+-    
 - 😄 Pronouns: ...she/her
 - ⚡ 
 
